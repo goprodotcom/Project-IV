@@ -1,0 +1,54 @@
+body
+{
+	background-image: url("hbackground.png");
+	background-repeat: repeat;
+	margin: auto;
+	max-width: 1920px;
+}
+#banner
+{
+	position: fixed;
+	top: 0;
+}
+#nav
+{
+	position: fixed;
+	top: 324px;
+	background-color: white;
+	height: 88px;
+	width: 1920px;
+	
+}
+#mission
+{
+	padding-top: 412px;
+}
+h6
+{
+	font-size: 48px;
+	font-family: Franklin Gothic Book;
+	color: #4d0000;
+}
+ p
+ {
+ 	font-family: Franklin Gothic Book; Arial;
+ 	font-size: 36px;
+ 	color: #4d0000;
+	padding-right: 50px;
+	padding-left: 50px;
+ }
+ #footer
+ {
+ 	text-align: center;
+ 	background-color: #ffe6e6;
+ 	font-size: 36px;
+ 	font-family: Franklin Gothic Book;
+ 	padding: 20px;
+ 	width: 1920px;
+
+ }
+  a
+ {
+ 	margin-right: 50px;
+ 	color: white;
+ }
