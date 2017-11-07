@@ -1,6 +1,7 @@
 body
 {
-	background-color: white;
+	background-image: url('fbackground.png');
+	background-repeat: repeat;
 	margin: auto;
 	max-width: 1920px;
 }
@@ -8,11 +9,9 @@ body
 {
 	position: fixed;
 	top: 324px;
-	width: 100%;
+	width: 1920px;
 	height: 88px;
 	background-color: white;
-	margin-left: 200px;
-	margin-right: 200px;
 }
 #banner
 {
@@ -33,6 +32,7 @@ body
  {
  	font-size: 36px;
  	text-align: justify;
+ 	background-color: white;
  }
  #reviews
  {

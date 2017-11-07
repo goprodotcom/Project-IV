@@ -52,7 +52,6 @@ body
  	font-family: Franklin Gothic Book;
  	padding-top: 20px;
  	padding-bottom: 20px;
- 	font-variant: normal;
  	bottom: 0px;
  	text-align: center;
  	clear: both;
@@ -61,4 +60,5 @@ body
  {
  	padding-right: 50px;
  	text-align: center;
+	 color: white;
  }
